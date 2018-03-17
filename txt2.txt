@@ -1,0 +1,8 @@
+This is new file
+total 5
+drwxrwx---  1 vagrant www-data    0 Mar 17 05:00 ./
+drwxr-xr-x 25 root    root     4096 Mar 10 06:20 ../
+drwxrwx---  1 vagrant www-data    0 Mar 17 04:51 ne/
+drwxrwx---  1 vagrant www-data    0 Mar 17 04:51 new/
+-rwxrwx---  1 vagrant www-data   22 Mar 17 04:55 txt1.txt*
+-rwxrwx---  1 vagrant www-data   17 Mar 17 05:00 txt2.txt*

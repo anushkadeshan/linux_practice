@@ -1,0 +1,9 @@
+total 6
+drwxrwx---  1 vagrant www-data    0 Mar 17  2018 ./
+drwxr-xr-x 25 root    root     4096 Mar 10 06:20 ../
+-rwxrwx---  1 vagrant www-data   30 Mar 17 05:25 error.txt*
+-rwxrwx---  1 vagrant www-data    0 Mar 17  2018 files_ex.txt*
+drwxrwx---  1 vagrant www-data    0 Mar 17 04:51 ne/
+drwxrwx---  1 vagrant www-data    0 Mar 17 04:51 new/
+-rwxrwx---  1 vagrant www-data   22 Mar 17 04:55 txt1.txt*
+-rwxrwx---  1 vagrant www-data  355 Mar 17 05:01 txt2.txt*
