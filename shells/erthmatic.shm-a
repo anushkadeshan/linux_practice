@@ -1,0 +1,6 @@
+#!/bin/bash
+
+read -p "Enter Value : " x y
+
+ans = `expr $x + $y`
+echo "$x + $y = $ans"
