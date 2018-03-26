@@ -1,0 +1,11 @@
+#!bin/bash
+
+echo "Enter your user name and password"
+validnm ="user"
+validpass ="pass"
+
+read username
+read password
+
+if[ "$username" = "$validnm" -a
+

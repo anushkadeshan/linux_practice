@@ -1,0 +1,16 @@
+echo " Enter your user name and password"
+read username
+read password
+validun  ="user"
+validpass = "pass"
+
+if[ $((username=validun) -a $((password=validpass)) ]; then
+
+./userdata.sh
+
+else
+
+./login.sh
+
+fi
+
